@@ -6,11 +6,11 @@ import TextBlob
 
 #login twitter - auth code
 
-consumer_key = 'EitgemDaNZYcJg6gzfVVpmrt8'
-consumer_secret = 's7VlZPOA7DA7ho8mXSl5nme3viGeB3AQf9Oj1mmPdIGbRtZ6dD'
+consumer_key = ''
+consumer_secret = ''
 
-access_token = '157278590-rYRjV7OSS6MtGy67cg6cjnStTddeSBA88LGfJd8a'
-access_secret = 'KE5pah78HyTphmhrXG2g9FGhfa1v4ANXPqCfTX2Xie3RG'
+access_token = ''
+access_secret = ''
 
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token,access_secret)
