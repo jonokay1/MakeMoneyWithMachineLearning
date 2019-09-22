@@ -13,13 +13,14 @@ The dataset for this submission was taken from a Kaggle Competition by [IEEE-CIS
 - Recall matrix was plotted to show the performance of the model
 
 ## Visualisations
-![**How much of the data is Fraud and not Fraud**](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%203/Images/FraudinTraining.jpg)
+**How much of the data is Fraud and not Fraud?**
+![Fraud barplot](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%203/Images/FraudinTraining.jpg)
 
+**How many cells are empty in the training data?**
+![Empty Cells barplot](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%203/Images/NaNTraining.jpg)
 
-![**How many cells are empty in the data**](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%203/Images/NaNTraining.jpg)
-
-
-![**Correlation of the data**](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%203/Images/CorrTraining.jpg)
+**How is the data correlated?**
+![Correlation Image](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%203/Images/CorrTraining.jpg)
 
 
 ## Summary of Results
