@@ -10,7 +10,6 @@ The dataset for this submission was taken from a Kaggle Competition by [IEEE-CIS
 - The dataframes were visualised and quickly analysed to aid feature selection
 - The selected features were then used to train a logistic model
 - The logistic model was used to predict fraudlent and non-fraudlent transactions
-- Recall matrix was plotted to show the performance of the model
 
 ## Visualisations
 **How much of the data is Fraud and not Fraud?**
