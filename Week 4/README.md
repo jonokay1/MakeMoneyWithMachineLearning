@@ -25,5 +25,5 @@ Keras library was used to train a machine learning model on detecting Pneumonia 
 - This gives a prediction accuracy score of 86.67%
 
 <p align="center">
-  <img width="615" height="188" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/PneumoniaDataFrame.JPG">
+  <img width="515" height="530" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/PneumoniaDataFrame.JPG">
 </p>
