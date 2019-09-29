@@ -11,11 +11,16 @@ Keras library was used to train a machine learning model on detecting Pneumonia 
 
 ## Visualisations
 **Normal X-Ray Image**
+
 ![Normal](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/normalx_ray.jpg)
 
 **Pneumonia infected X-Ray Image**
+
 ![Pneumonia](https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/pneumoniax_ray.jpg)
 
+<p align="center">
+  <img width="615" height="188" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/pneumoniax_ray.jpg">
+</p>
 
 ## Summary of Results
 - Upon fiting and testing the model, it was found to be 68.75% accurate
