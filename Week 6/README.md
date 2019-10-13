@@ -1,29 +1,26 @@
-# **Pneumonia Detection Using Transfer Learning**
-Keras library was used to train a machine learning model on detecting Pneumonia from an X-Ray image dataset on Kaggle. [Chest X-Ray Images - Pneumonia](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
+# **Fashion MNIST GAN**
 
-## Flow of the Code
-
-- Started by importing the data from kaggle to the server 
-- Imported data was visualised. Some of the chest X-Ray images are shown below
-- A pretrained model was imported from InceptionV3 imagenet
-- It failed to predict what the image was. Its highest percentage of 7.6% referred to the chest scan as a Conch
-- The model was then trained 
+- Generating images with GAN
 
 ## Visualisations
 
+- The GAN generation improves over time till the final 3 generated images. 
+- Given the initial images, were not of very high quality, the noise in the GAN training limits how much it can improve the final output
+
 <p align="center">
-  <img width="615" height="188" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/normalx_ray.jpg">
+  <img width="392" height="371" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%206/Images/GAN0.jpg">
 </p>
 
 <p align="center">
-  <img width="615" height="188" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/pneumoniax_ray.jpg">
+  <img width="392" height="371" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%206/Images/GAN1.jpg">
 </p>
 
-## Summary of Results
-- Upon fiting and testing the model, it was found to be 68.75% accurate
-- From the DataFrame below the model correctly predicts all the cases of Pneumonia and has 2 False Positives
-- This gives a prediction accuracy score of 86.67%
+<p align="center">
+  <img width="392" height="371" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%206/Images/GAN2.jpg">
+</p>
+
+- Final Output
 
 <p align="center">
-  <img width="515" height="530" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%204/Images/PneumoniaDataFrame.JPG">
+  <img width="392" height="371" src="https://github.com/jonokay1/MakeMoneyWithMachineLearning/blob/master/Week%206/Images/GAN%203.jpg">
 </p>
